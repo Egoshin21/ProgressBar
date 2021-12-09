@@ -4,7 +4,9 @@
 
 1.[ProgressBar](https://github.com/Egoshin21/ProgressBar/blob/main/README.md#progressbar)
 
-2.[ProgressBar (Horizontal)]()
+2.[ProgressBar (Horizontal)](https://github.com/Egoshin21/ProgressBar/blob/main/README.md#progressbar-horizontal)
+
+3.[Indeterminate ProgressBar]()
 
 ## Основы
 Компонент ProgressBar (Индикатор прогресса) применяется в тех случаях, когда пользователю нужно показать, что программа не зависла, а выполняет продолжительную работу.
