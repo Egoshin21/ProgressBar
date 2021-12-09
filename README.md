@@ -1,6 +1,10 @@
 <h1 align="center"> ProgressBar</h1>
-#Содержание
-1.[]
+
+# Содержание
+
+1.[ProgressBar](https://github.com/Egoshin21/ProgressBar/blob/main/README.md#progressbar)
+
+2.[ProgressBar (Horizontal)]()
 
 ## Основы
 Компонент ProgressBar (Индикатор прогресса) применяется в тех случаях, когда пользователю нужно показать, что программа не зависла, а выполняет продолжительную работу.
